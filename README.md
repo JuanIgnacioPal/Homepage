@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋,I'm Juan Ignacio Palacios</h1>
 <h3 align="center">I am a junior data analyst from Santiago de Chile</h3>
 
-- 🔭 I’m currently working on **On a tech project for my portfolio**
+- 🔭 I’m currently working on **a tech project for my portfolio**
 
 - 🌱 I’m currently learning **DA pipeline and multiple data software with two online academies.**
 
