@@ -3,8 +3,6 @@ Here you will find my professional profile.
 <h1 align="center">Hello there! 👋,I'm Juan Ignacio Palacios</h1>
 <h3 align="center">I am a junior data analyst from Santiago de Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanignaciopal&label=Profile%20views&color=0e75b6&style=flat" alt="juanignaciopal" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanignaciopal" alt="juanignaciopal" /></a> </p>
 
 - 🔭 I’m currently working on **On a tech project for my portfolio**
